@@ -1,4 +1,4 @@
-# Tuorial
+# Tutorial
 
 This is the repository for publishing the tutorials.
 
